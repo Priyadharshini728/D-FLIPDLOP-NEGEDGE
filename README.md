@@ -1,5 +1,5 @@
-# D-FLIPDLOP-NEGEDGE
-
+## EX-08 D-FLIPDLOP-NEGEDGE
+## DATE:16-11-2024
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
@@ -59,14 +59,13 @@ module d_ff_neg_edge (d, clk, rst, q);
   end
   
 endmodule
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: V. Patrick Alex Emmanuel
-
-RegisterNumber: 24900019
+## Developed by:PRIYADHARSHINI P
+## RegisterNumber: 24901256
 */
-```
+
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1470" alt="Screenshot 2024-12-07 at 2 48 38 PM" src="https://github.com/user-attachments/assets/99ca16aa-9a9f-4315-868c-ad4818d13235">
 
